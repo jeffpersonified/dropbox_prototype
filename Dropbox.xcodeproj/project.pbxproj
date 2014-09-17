@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F33F1DC19C90809008657A8 /* existingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F33F1DB19C90809008657A8 /* existingPhotosViewController.swift */; };
+		1F33F1DE19C91D84008657A8 /* termsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F33F1DD19C91D84008657A8 /* termsViewController.swift */; };
 		1FDC00CA19C7CFC4001EAE9B /* scrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC00C919C7CFC4001EAE9B /* scrollViewController.swift */; };
 		1FDC869119C4DEE900F5D295 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC869019C4DEE900F5D295 /* AppDelegate.swift */; };
 		1FDC869319C4DEE900F5D295 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC869219C4DEE900F5D295 /* ViewController.swift */; };
@@ -30,6 +32,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F33F1DB19C90809008657A8 /* existingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = existingPhotosViewController.swift; sourceTree = "<group>"; };
+		1F33F1DD19C91D84008657A8 /* termsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = termsViewController.swift; sourceTree = "<group>"; };
 		1FDC00C919C7CFC4001EAE9B /* scrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = scrollViewController.swift; sourceTree = "<group>"; };
 		1FDC868B19C4DEE900F5D295 /* Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dropbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FDC868F19C4DEE900F5D295 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -88,6 +92,8 @@
 				1FDC869019C4DEE900F5D295 /* AppDelegate.swift */,
 				1FDC869219C4DEE900F5D295 /* ViewController.swift */,
 				1FDC869419C4DEE900F5D295 /* Main.storyboard */,
+				1F33F1DD19C91D84008657A8 /* termsViewController.swift */,
+				1F33F1DB19C90809008657A8 /* existingPhotosViewController.swift */,
 				1FDC00C919C7CFC4001EAE9B /* scrollViewController.swift */,
 				1FDC86B319C4E72900F5D295 /* CreateAccountViewController.swift */,
 				1FDC86B519C4E73500F5D295 /* SignInViewController.swift */,
@@ -226,7 +232,9 @@
 				1FDC00CA19C7CFC4001EAE9B /* scrollViewController.swift in Sources */,
 				1FDC86B419C4E72900F5D295 /* CreateAccountViewController.swift in Sources */,
 				1FDC86B219C4E61A00F5D295 /* CreateAccountRootViewController.swift in Sources */,
+				1F33F1DE19C91D84008657A8 /* termsViewController.swift in Sources */,
 				1FDC86B619C4E73500F5D295 /* SignInViewController.swift in Sources */,
+				1F33F1DC19C90809008657A8 /* existingPhotosViewController.swift in Sources */,
 				1FDC86B019C4E60300F5D295 /* SignInRootViewController.swift in Sources */,
 				1FDC869319C4DEE900F5D295 /* ViewController.swift in Sources */,
 				1FDC869119C4DEE900F5D295 /* AppDelegate.swift in Sources */,
